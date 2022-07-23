@@ -22,9 +22,9 @@ global.APIKeys = {
 global.alivemsg = `My name is MASOOM🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = [wa.me/923045610683] //Owner number in aive msg
+global.premium = ['+92 304 5610683'] //Owner Number info
+global.ownernomer = '+92 304 5610683' //Owner Number <<<
 
 global.ownername = '😘⃞⃗🇲ᴀsᴏᴏᴍ💔' //Owner Name
 global.botname = ' ☬😘⃞⃗🇲ᴀsᴏᴏᴍ💔࿐' //Bot Name
