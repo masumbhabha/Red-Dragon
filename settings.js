@@ -1,6 +1,6 @@
 //════════════(00)════════════════\\
 //
-//          😘⃞⃗🇲ᴀsᴏᴏᴍ💔
+//          MaSoOm
 //
 //════════════(00)════════════════\\
 
@@ -20,7 +20,7 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is MaSoOm🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+My Creator is MaSoOm😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+923194019762'] //Owner number in aive msg
 global.premium = ['+923194019762'] //Owner Number info
